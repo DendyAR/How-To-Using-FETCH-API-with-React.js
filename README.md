@@ -7,3 +7,5 @@
 1. pertama saya membuat `create-react-app` dengan nama `my-app`
 2. Lalu membukanya dengan editor
 3. Saya Buat
+
+![Gambar6Tugas2](https://user-images.githubusercontent.com/49724910/106439594-70864e00-64aa-11eb-86c4-ddac6093530f.PNG)
