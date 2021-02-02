@@ -4,11 +4,11 @@
 
 <h4>Dan sini saya akan menjelaskan tentang hasil yang telah saya buat menggunakan react.js
 
-<h4>1. pertama saya membuat `create-react-app` dengan nama `my-app`
-<h4>2. Lalu membukanya dengan editor
-<h4>3. Saya mengimport `react-boostrap` bawaan sebagain css nya 
-<h4>4. dan saya juga menggunakan `useState` & `useEfect` sebagai satate untuk memanggail data dari API nya
-<h4>5. membuat sebuah card yang di ambil dari`react-bosstrap`
+1. pertama saya membuat `create-react-app` dengan nama `my-app`
+2. Lalu membukanya dengan editor
+3. Saya mengimport `react-boostrap` bawaan sebagain css nya 
+4. dan saya juga menggunakan `useState` & `useEfect` sebagai satate untuk memanggail data dari API nya
+5. membuat sebuah card yang di ambil dari`react-bosstrap`
 
 <h4>Dan untuk hasil nya bisa di lihat gambar di bawah ini yang mana data user di tampilkan menggunakan tampilan css dari `react-boostrap` bawaan 
 
